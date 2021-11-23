@@ -92,8 +92,8 @@ Project Link: [https://github.com/blablabliam/StarizonaDarkFilter](https://githu
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [NASA](www.nasa.gov)
-* [Instructables](www.instructables.com)
+* [Starizona](https://starizona.com/)
+
 
 
 
