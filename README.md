@@ -69,7 +69,7 @@ The dark filter simply blocks all incoming light from entering the camera. I sug
 
 There are two small holes in the back side of the filter, where you can optionally glue into place a pair of 6mm neodymium magnets. Make absolutely sure that they are aligned properly with your filter drawer BEFORE glueing them into place, or they will repel the magnets in the filter drawer. 
 
-There is enough room to grab the filter drawer with your fingers if you have small hands, but I really don't like presenting opportunities to touch the corrective plate on my RASA. Instead, you can install a small M3 heat set insert on the front face of the filter. If you are not used to heat set inserts, [Hackaday] (https://hackaday.com/2019/02/28/threading-3d-printed-parts-how-to-use-heat-set-inserts/) wrote a great article on using them. Then, you can install any size M3 bolt, or make your own nice knob to match the other filters. 
+There is enough room to grab the filter drawer with your fingers if you have small hands, but I really don't like presenting opportunities to touch the corrective plate on my RASA. Instead, you can install a small M3 heat set insert on the front face of the filter. If you are not used to heat set inserts, [Hackaday](https://hackaday.com/2019/02/28/threading-3d-printed-parts-how-to-use-heat-set-inserts/) wrote a great article on using them. Then, you can install any size M3 bolt, or make your own nice knob to match the other filters. 
 
 Print with at least four layers, so that there is plenty of plastic for the heat set insert to bite into. No need for supports or rafts; just print in place.
 
