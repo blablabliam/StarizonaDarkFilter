@@ -44,7 +44,7 @@
     <li><a href="#design">Design</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
@@ -90,7 +90,7 @@ Project Link: [https://github.com/blablabliam/StarizonaDarkFilter](https://githu
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## Acknowledgments
 
 * [Starizona](https://starizona.com/)
 
